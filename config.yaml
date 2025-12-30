@@ -1,0 +1,3 @@
+planner:
+  provider: gemini        # gemini | fallback
+  model: gemini-2.0-flash-lite
