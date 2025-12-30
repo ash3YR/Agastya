@@ -1,6 +1,4 @@
-# Autonomous Coding Agent (Iteration 1)
-
-## What This Is
+## Agastya
 
 A **CLI-based autonomous coding agent** that analyzes a code repository and produces **structured, auditable plans** for code changes using an **LLM-driven planner with deterministic fallback**.
 
